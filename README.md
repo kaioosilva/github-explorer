@@ -10,14 +10,6 @@
   
 </p>
 
-[![Author](https://img.shields.io/badge/author-kaioosilva-3D3D4D?style=flat-square)](https://github.com/LauraBeatris)
-[![Languages](https://img.shields.io/github/languages/count/kaioosilva/github-explorer?color=%233D3D4D&style=flat-square)](#)
-[![Stars](https://img.shields.io/github/stars/kaioosilva/github-explorer?color=3D3D4D&style=flat-square)](https://github.com/kaioosilva/github-explorer/stargazers)
-[![Forks](https://img.shields.io/github/forks/kaioosilva/github-explorer?color=%233D3D4D&style=flat-square)](https://github.com/kaioosilva/github-explorer/network/members)
-[![Contributors](https://img.shields.io/github/contributors/kaioosilva/github-explorer?color=3D3D4D&style=flat-square)](https://github.com/kaioosilva/github-explorer/graphs/contributors)
-
----
-
 # :pushpin: Table of Contents
 
 * [Features](#rocket-features)
